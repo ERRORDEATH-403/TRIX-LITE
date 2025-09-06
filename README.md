@@ -47,7 +47,7 @@ pip install fake_useragent
 ```
 cd $HOME
 rm -rf TRIX-LITE
-git clone https://github.com/ERRORDEATH-403/ZENOX-LITE
+git clone https://github.com/ERRORDEATH-403/TRIX-LITE
 git pull
 cd TRIX-LITE
 python TRIX.py
